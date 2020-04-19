@@ -35,5 +35,5 @@ jobs:
 
     steps:
     - name: Aws help
-      run: aws --help
+      run: aws help
       
