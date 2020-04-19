@@ -26,7 +26,7 @@
 on:
   push:
     
-name: Deploy to Amazon ECS
+name: WorkfowTest
 
 jobs:
   deploy:
