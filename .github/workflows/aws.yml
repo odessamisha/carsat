@@ -34,6 +34,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      run: aws --version
+    - name: Aws help
+      run: aws --help
       
